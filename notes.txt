@@ -1,0 +1,4 @@
+je decouvre Git
+je cree mon premier depot
+j'apprends les commits
+je modifie et je recommence le cycle 
